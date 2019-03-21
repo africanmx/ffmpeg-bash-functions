@@ -1,0 +1,20 @@
+The software is provided "as is" without warranty.
+All ffmpeg binaries are not provided on purpose.
+Software from ffmpeg is licensed "as is" for you as when you aqcuired it.
+This software is licensed "as is" for you as when you aqcuired it.
+
+To use this software you need
++ ffmpeg
+
+Use it for
++ cognito
++ micro analysis
++ pizza ( what? )
++ salad
++ other cloud's
+
+Read the comments at the bash functions.
+Source the file with the dot or with the `source` word.
+
+Thanks in advance
+
